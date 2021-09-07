@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [xxx](https://github.com/scientificCommunity)
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
-- 📫 How to reach me: [email](https://www.rust-lang.org/)
+- 📫 How to reach me: [rivers.boat.snow@gmail.com](https://www.rust-lang.org/)
 - 😄 Pronouns: 穹柏
 ---
 
