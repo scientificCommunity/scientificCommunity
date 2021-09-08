@@ -24,10 +24,10 @@
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
 
-<a href="https://github.com/scientificCommunity/tang">
+<a href="https://github.com/scientificCommunity/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=scientificCommunity&show_icons=true&count_private=true" alt="Tang's github stats" />
 </a>
-<a href="https://github.com/scientificCommunity/tang">
+<a href="https://github.com/scientificCommunity/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scientificCommunity&hide=python,html&layout=compact" />
 </a>
 
