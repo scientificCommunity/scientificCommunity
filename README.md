@@ -1,4 +1,4 @@
-### Hi there, I'm [scientificCommunity!](https://github.com/scientificCommunity)👋
+### Hi there, I'm [Kun Tang!](https://github.com/scientificCommunity)👋
 
 - 🔭 I’m currently working on [mampod](https://github.com/scientificCommunity)
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
