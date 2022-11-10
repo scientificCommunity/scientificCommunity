@@ -1,6 +1,6 @@
 ### Hi there, I'm [Kun Tang!](https://github.com/scientificCommunity)👋
 
-- 🔭 I’m currently working on [mampod](https://github.com/scientificCommunity)
+- 🔭 I’m now a freelancer
 - 🌱 Focus on backend
 - 📫 How to reach me: [rivers.boat.snow@gmail.com](mailto:rivers.boat.snow@gmail.com)
 ---
