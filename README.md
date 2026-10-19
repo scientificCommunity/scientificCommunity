@@ -2,7 +2,7 @@
 
 - 🔭 I’m now a freelancer
 - 🌱 Focus on backend
-- 📫 How to reach me: [rivers.boat.snow@gmail.com](mailto:rivers.boat.snow@gmail.com)
+- 📫 How to reach me:
 ---
 
 <a href="https://github.com/scientificCommunity/">
